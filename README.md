@@ -1,1 +1,1 @@
-#Site de um portal de notícias
+# Site de um portal de notícias
